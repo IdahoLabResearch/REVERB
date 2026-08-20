@@ -1,0 +1,68 @@
+Licensing information
+
+AnyLogic Engine Runtime License Agreement
+- see 'AnyLogic Model End User Agreement.txt' file in this directory
+
+
+
+This product includes the following software:
+
+Apache POI (http://poi.apache.org) - Copyright (c) Apache Software Foundation (license: apache-LICENSE-2.0.txt), see also apache-poi-NOTICE.txt
+
+Apache Commons Math (http://commons.apache.org) - Copyright (c) Apache Software Foundation (license: apache-LICENSE-2.0.txt), see also apache-commons-math-NOTICE.txt
+
+Jetty Web Container (https://github.com/eclipse/jetty.project) - Copyright (c) 2008-2024 Webtide (license: jetty-license.txt)
+
+Spark Framework (http://sparkjava.com/) - a free and open source Java Web Framework (license: apache-license-2.0.txt); modified version with updated dependency (org.eclipse.jetty v.9.4.57.v20241219)
+
+Jackson (https://github.com/FasterXML/jackson-core) - Free/Open Source JSON processing library, developed by a community of developers (notice: jackson-notice.txt, license: apache-license-2.0.txt)
+
+Simple Logging Facade for Java (SLF4J) (https://www.slf4j.org/) - Copyright (c) 2004-2017 QOS.ch (license: MIT, see slf4j-license.txt)
+
+Chromium (https://www.chromium.org/) - an open-source browser project, Copyright (c) 2018, The Chromium Authors (license: chromium/chromium-bsd-license.txt, contains other software, licenses can be found in the chromium folder)
+
+OpenMap (http://openmap.bbn.com/) - Copyright (c) 2014 BBNT Solutions LLC. All rights reserved. (license: openmap-license.txt)
+
+GeoTools Geospatial Library (http://geotools.org/) - Copyright (c) Open Source Geospatial Foundation (http://osgeo.org/) and others. (license: lgpl-2.1.txt)
+
+Efficient Java Matrix Library (EJML) (http://ejml.org) - Copyright (c) Peter Abeles and others. (license: apache-license-2.0.txt)
+
+URIlib library (http://www.vlc.com.au/urilib) - (c) Virtual Light Company (license: GNU lgpl, http://www.gnu.org/copyleft/lesser.html)
+
+GraphHopper Copyright (c) 2012-2013 Peter Karich ( http://graphhopper.com ) (license: apache-license-2.0.txt)
+
+MapDB Copyright (c) 2012-2014 Jan Kotek ( http://www.mapdb.org ) (license: apache-license-2.0.txt)
+
+JSON Simple Fang Yidong <fangyidong@yahoo.com.cn> ( https://code.google.com/p/json-simple ) (license: lgpl-2.1.txt)
+
+jTDS JDBC Driver Copyright (c) Rob Worsnop ( http://jtds.sourceforge.net/ ) (license: lgpl-2.1.txt)
+
+LocationTech JTS Topology Suite - Copyright (c) LocationTech Group, Eclipse Foundation, Inc. and its licensors (license: edl-1.0.txt and epl-1.0.txt)
+
+Sqlsheet Copyright (c) 2008 Patrick Calahan ( https://code.google.com/p/sqlsheet/ ) (apache-license-2.0.txt); modified version with updated dependency (Apache POI 5.4.1)
+
+UCanaccess Copyright (c) 2021 Marco Amadei ( http://sourceforge.net/projects/ucanaccess/ ) (license: apache-license-2.0.txt); modified version with updated dependencies (HSQLDB v.2.7.1, Jackcess 4.0.2)
+	- UCanaccess uses the following software:
+		Jackcess ( http://jackcess.sourceforge.net/ ) - Copyright (c) 2005-2024 OpenHMS (license: apache-license-2.0.txt)
+		
+		Jackcess Encrypt ( https://jackcessencrypt.sourceforge.io/ ) - Copyright (c) 2010-2022 OpenHMS (license: apache-license-2.0.txt)
+		
+		Apache Commons Lang - (c) Apache Software Foundation, distribuited under Apache License 2.0. You can dowload the latest version of commons-lang.jar at http://commons.apache.org.
+		
+		Apache Commons Logging - (c) Apache Software Foundation, is distribuited under Apache License 2.0. You can download the latest version of commons-logging-api.jar at http://commons.apache.org.
+
+Microsoft JDBC Driver for SQL Server (c) Microsoft ( http://msdn.microsoft.com/en-us/sqlserver/aa937724.aspx ) (license: microsoft-license.txt)
+
+HSQLDB Copyright (c) 2001-2021, The HSQL Development Group. All rights reserved. ( http://hsqldb.org ) Licenses:
+	- hsqldb_lic.txt is for sources developed entirely by the HSQL Development Group. 
+	- hypersonic_lic.txt is for sources that contain code from the closed HypersonicSQL project.
+			
+Querydsl (c) 2021, The Querydsl Team ( http://www.querydsl.com ), distributed under Apache License 2.0 (apache-license-2.0.txt)
+
+jMetal ( https://jmetal.readthedocs.io ) - Copyright (c) 2017 Antonio J. Nebro, Juan J. Durillo (license: jmetal-license.txt)
+
+Three.js – JavaScript 3D Library (https://threejs.org/) - Copyright (c) 2010-2024 three.js authors (license: threejs-license.txt)
+
+JOML – Java OpenGL Math Library Copyright (c) 2015-2023 JOML ( https://github.com/JOML-CI/JOML ), distributed under MIT License (license: MIT, see joml-mit.txt)
+
+NVidia Omniverse Connect SDK - Copyright (c) 2022-2024, NVIDIA Corporation ( https://www.nvidia.com/en-us/omniverse/ ), distributed under NVidia Omniverse License Agreement (license: omniverse.txt)

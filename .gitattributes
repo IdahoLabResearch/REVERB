@@ -1,0 +1,5 @@
+chromium/**/*.exe filter=lfs diff=lfs merge=lfs -text
+chromium/**/*.dll filter=lfs diff=lfs merge=lfs -text
+chromium/**/*.dat filter=lfs diff=lfs merge=lfs -text
+chromium/**/*.pak filter=lfs diff=lfs merge=lfs -text
+lib/**/*.jar filter=lfs diff=lfs merge=lfs -text

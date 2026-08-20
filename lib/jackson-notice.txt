@@ -1,0 +1,39 @@
+# Jackson JSON processor
+
+Jackson is a high-performance, Free/Open Source JSON processing library.
+It was originally written by Tatu Saloranta (tatu.saloranta@iki.fi), and has
+been in development since 2007.
+It is currently developed by a community of developers.
+
+## Copyright
+
+Copyright 2007-, Tatu Saloranta (tatu.saloranta@iki.fi)
+
+## Licensing
+
+Jackson 2.x core and extension components are licensed under Apache License 2.0
+To find the details that apply to this artifact see the accompanying LICENSE file.
+
+## Credits
+
+A list of contributors may be found from CREDITS(-2.x) file, which is included
+in some artifacts (usually source distributions); but is always available
+from the source code management (SCM) system project uses.
+
+## FastDoubleParser
+
+jackson-core bundles a shaded copy of FastDoubleParser <https://github.com/wrandelshofer/FastDoubleParser>.
+That code is available under an Apache license under the following copyright.
+
+Copyright (c) Werner Randelshofer. Apache 2.0 License.
+
+FastDoubleParser code also contains code from:
+
+fast_double_parser <https://github.com/lemire/fast_double_parser>
+Copyright 2020 Daniel Lemire. Apache 2.0 License.
+
+fast_float <https://github.com/fastfloat/fast_float>
+Copyright 2021 The fast_float authors. Apache 2.0 License.
+
+bigint <https://github.com/tbuktu/bigint/tree/floatfft> (only using code from the  BSD License source files)
+Copyright 2020 Tim Buktu. 2-clause BSD License
